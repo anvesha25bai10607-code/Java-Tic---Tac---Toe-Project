@@ -1,0 +1,26 @@
+# Project Information
+
+Project Name: Tic-Tac-Toe Game in Java
+Language: Java
+Type: Console-based two-player game
+
+Main File:
+Project.java
+
+Main Methods:
+- add3()
+- showBoard()
+- winner()
+- main()
+
+Players:
+- X
+- O
+
+Board:
+- 3 x 3
+- Positions 0 to 8
+
+No GUI
+No AI
+No external libraries
